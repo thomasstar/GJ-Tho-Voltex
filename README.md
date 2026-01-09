@@ -1,2 +1,2 @@
 # GJ-Tho-Voltex
-3D Printable case for SDVX arcade style controller
+3D Printable SDVX arcade style controller case
