@@ -11,6 +11,8 @@ The case is made in a modular design to make the print process easier and overal
 Please note there are two options available for the top panel. One designed for the Baolian SDVX encoder assembly. And one for a generic chinese style optical encoder.
 There is also an option to print the AC style top panel, and then use the generic chinese encoder mount plate. This may be useful if you are planning to use an AC style knob on a generic chinese encoder. But please note that I have not tested this part.
 
+There are also two options for the side IO. with or without mounting holes for 24mm push in style arcade buttons. Both requires Neutric stryle usb panel mount.
+
 The Baolian SDVX assembly requires you to replace the stock metal mounting plate with the 3d printable one.
 
 The biggest part to print requires bed size of 220x200mm but bigger is better.
