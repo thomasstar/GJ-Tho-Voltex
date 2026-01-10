@@ -17,3 +17,5 @@ Connect everything together by placing m5 hex nuts in their mounting hole locati
 ![assembly4](https://github.com/thomasstar/GJ-Tho-Voltex/blob/main/Pictures/pic_assembly4.png?raw=true)
 ![overview](https://github.com/thomasstar/GJ-Tho-Voltex/blob/main/Pictures/pic_overview.png?raw=true)
 Then install the top and bottom panels using 10-15mm screws. And the finished product should look like this.
+
+I recommend installing some adhesive rubber feet on the bottom. To prevent it from sliding all over your table.
